@@ -1,1 +1,25 @@
 # gpshud
+
+## Introduction
+
+This project creates a Head-Up Display in a car using data from a GPS receiver. It displays the current heading and speed and time based on GPS data. It is intended for use in cars that do not have an OBD2 port, like the Tesla Model 3.
+
+## Hardware
+* [Raspberry Pi 3B+](https://smile.amazon.com/gp/product/B07BDR5PDW/)
+* Sunlight-readable display, e.g. [Newhaven Display NHD-7.0-HDMI-N-RSXN-CTU](http://www.newhavendisplay.com/nhd70hdminrsxnctu-p-9552.html)
+* [Adafruit Ultimate GPS HAT](https://smile.amazon.com/gp/product/B00S7FAJC4/)
+* [External GPS antenna](https://smile.amazon.com/Waterproof-Active-Antenna-28dB-Gain/dp/B00LXRQY9A/)
+* [SMA to uFL adapter cable](https://smile.amazon.com/SMA-u-FL-IPEX-Adapter-Cable/dp/B0769KKPYN/)
+* [Beamsplitter mirror of the right dimensions to suit your setup](https://telepromptermirror.com/glass-teleprompter-mirror/)
+* 3D printed mount to place your monitor in the right location on your dashboard
+* HDMI cable long enough to go from the place you store the Pi to the monitor
+* Compatible car power cable for the monitor you choose (I used [this one](https://smile.amazon.com/gp/product/B07BSFSW8N/))
+* 5V, 2A car power cable for the Pi
+
+## Software
+* [Raspbian Stretch Lite](https://downloads.raspberrypi.org/raspbian_lite_latest)
+* Code used from [this project](https://github.com/rnorris/gpsd/blob/master/xgpsspeed)
+* [unclutter](https://wiki.archlinux.org/index.php/unclutter)
+* [gpsd](http://www.catb.org/gpsd/)
+* Python packages: [Astral](https://pypi.org/project/astral/), [GTK+ 3.0](https://python-gtk-3-tutorial.readthedocs.io/en/latest/), [Pycairo](https://pycairo.readthedocs.io/en/latest/), [gps](https://pypi.org/project/gps/)
+
