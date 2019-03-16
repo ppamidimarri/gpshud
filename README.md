@@ -21,5 +21,5 @@ This project creates a Head-Up Display in a car using data from a GPS receiver. 
 * Code used from [this project](https://github.com/rnorris/gpsd/blob/master/xgpsspeed)
 * [unclutter](https://wiki.archlinux.org/index.php/unclutter)
 * [gpsd](http://www.catb.org/gpsd/)
-* Python packages: [Astral](https://pypi.org/project/astral/), [GTK+ 3.0](https://python-gtk-3-tutorial.readthedocs.io/en/latest/), [Pycairo](https://pycairo.readthedocs.io/en/latest/), [gps](https://pypi.org/project/gps/)
+* Python packages: [astral](https://pypi.org/project/astral/), [GTK+ 3.0](https://python-gtk-3-tutorial.readthedocs.io/en/latest/), [pycairo](https://pycairo.readthedocs.io/en/latest/), [gps](https://pypi.org/project/gps/)
 
