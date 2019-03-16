@@ -16,7 +16,7 @@ Features:
 * [External GPS antenna](https://smile.amazon.com/Waterproof-Active-Antenna-28dB-Gain/dp/B00LXRQY9A/)
 * [SMA to uFL adapter cable](https://smile.amazon.com/SMA-u-FL-IPEX-Adapter-Cable/dp/B0769KKPYN/)
 * [Beamsplitter mirror of the right dimensions to suit your setup](https://telepromptermirror.com/glass-teleprompter-mirror/)
-* 3D printed mounts to place your monitor and mirror in the right place for driver's line-of-sight in the car
+* [3D printed mounts](https://www.thingiverse.com/thing:3496105) to place your monitor and mirror in the right place for driver's line-of-sight in the car
 * HDMI cable long enough to go from the place you store the Pi to the monitor
 * Compatible car power cable for the monitor you choose (I used [this one](https://smile.amazon.com/gp/product/B07BSFSW8N/))
 * 5V, 2A car power cable for the Pi
