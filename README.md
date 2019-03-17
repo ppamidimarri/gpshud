@@ -1,4 +1,4 @@
-# gpshud
+# GPS-based HUD for Tesla Model 3
 
 ## Introduction
 
@@ -32,6 +32,10 @@ Features:
 
 TODO
 
-## Pictures
+## [Pictures](https://imgur.com/a/LB97YwX)
 
-TODO
+**Car parked in daylight, driver's view**
+![https://i.imgur.com/RM7JgaY.jpg](Parked in daylight)
+
+**Side view of 3D-printed mounts on the Tesla Model 3**
+![https://i.imgur.com/68HfFuC.jpg?1](Side view)
