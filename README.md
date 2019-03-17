@@ -35,7 +35,7 @@ TODO
 ## [Pictures](https://imgur.com/a/LB97YwX)
 
 **Car parked in daylight, driver's view**
-![https://i.imgur.com/RM7JgaY.jpg](Parked in daylight)
+![Parked in daylight](https://i.imgur.com/RM7JgaY.jpg)
 
 **Side view of 3D-printed mounts on the Tesla Model 3**
-![https://i.imgur.com/68HfFuC.jpg?1](Side view)
+![Side view](https://i.imgur.com/68HfFuC.jpg?1)
